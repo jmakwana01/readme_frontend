@@ -20,7 +20,13 @@
     ```
     ### Running locally
     ```bash
-    npm start
+    npm run start
     ```
     Running app frontend locally on [http://localhost:9000/](http://localhost:9000/)
     ![image](https://user-images.githubusercontent.com/87368354/202694494-076577c1-42f3-4c0f-8585-de91d578e7f4.png)
+    
+    ### Creates a build directory with a production build of your app
+     ```bash
+    npm run build
+    ```
+    
